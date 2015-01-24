@@ -1,0 +1,4 @@
+packer/box/*
+packer/packer_cache/*
+
+vagrant/.vagrant/*
