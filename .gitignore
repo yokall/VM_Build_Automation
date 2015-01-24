@@ -2,3 +2,5 @@ packer/box/*
 packer/packer_cache/*
 
 vagrant/.vagrant/*
+
+vagrant/chef-solo
